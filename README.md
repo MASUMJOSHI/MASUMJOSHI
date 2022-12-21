@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/_i9AUV0v_0AAAC/welcom-banner.gif)](https://MASUMJOSHI.io)
+[![MasterHead](https://th.bing.com/th/id/OIP.FqjOd8gX4bNhlNZrC3X2nQHaE0?pid=ImgDet&rs=1)](https://MASUMJOSHI.io)
 <h1 align="center">Hi 👋, I'm Masum Joshi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masumjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="masumjoshi" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
